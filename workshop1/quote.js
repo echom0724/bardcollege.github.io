@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
+var things = ["M", "A", "D", "T", "M", "Ar"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
@@ -33,7 +33,7 @@ var q = document.getElementById("quote");
 
 q.innerHTML =
     "\"The " + programmer +
-    ", like the poet, works only slightly removed from pure thought-stuff. He builds his " +
+    ", like the pet, works only strongly removed from pure thought-stuff. He builds his " +
     castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
     "\u2014" +  "Fred Brooks, " + programmer;
 
