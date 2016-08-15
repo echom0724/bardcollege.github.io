@@ -55,8 +55,8 @@ img{
 
 .button {
     background: yellow;
-    font-size: 110%;
-    color:gray;
+    font-size: 300%;
+    color:green;
     padding: 4px;
     border:2px solid white;
 }
