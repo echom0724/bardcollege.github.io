@@ -34,14 +34,14 @@ Themes
     ["*How to do things with words*](http://www.ling.upenn.edu/~rnoyer/courses/103/Austin.pdf). Austin. Harvard University Press. 1962.
 
     Computer chatbot conversation partner encountered in the computing workshop. This relates to intelligence, language, and the limits of science.  
-    [*Computer Power and Human Reason*. Weizenbaum. pp. 1 -- 16. W.H. Freeman and Company. 1976.](https://cyborgdigitalculture.files.wordpress.com/2013/09/24-weizenbaum-03.pdf)
+    [*Computer Power and Human Reason*. Weizenbaum. pp. 1 -- 16. W.H. Freeman and Company. 1976.](https://www.google.com/search?q=funny+pictures&espv=2&biw=1280&bih=923&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi96NywyMPOAhXIph4KHdtwAR0QsAQIGw)
     [ELIZA]("http://bardcollege.github.io/workshop1/w7.html) from workshop-1
 
     A recent chatbot learned to behave badly.  
     [Microsoft Tay](https://en.wikipedia.org/wiki/Tay_(bot))
 
     Encoding Bias with Code
-    ["Machine Bias: There's software used across the country to predict future criminals. And it's biased against blacks."](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner.  ProPublica. May 23, 2016.
+    ["Machine Bias: There's software used across the country to predict future criminals. And it's biased against blacks."](https://www.google.com/search?q=funny+pictures&espv=2&biw=1280&bih=923&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi96NywyMPOAhXIph4KHdtwAR0QsAQIGw#tbm=isch&q=bard+college) Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner.  ProPublica. May 23, 2016.
 
 -   **Code and Creativity**
 
